@@ -1,2 +1,4 @@
 # Business-site-node
-Introduction page of webdesign company
+Introduction page of webdesign company.
+
+Use Node-js with express modul
